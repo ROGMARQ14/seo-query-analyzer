@@ -1,0 +1,1 @@
+# seo-query-analyzer
